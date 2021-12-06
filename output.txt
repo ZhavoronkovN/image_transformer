@@ -1,0 +1,32 @@
+Initialization
+
+1) Transforming tiff
+
+Opening tiff image. Time elapsed : 0ms
+Decoding tiff image. Time elapsed : 7671ms
+Saving tiff image without compression. Time elapsed : 29ms
+Saving tiff image with LZW compression. Time elapsed : 26703ms
+compression rate 23%
+
+2) Transforming jpeg
+
+Opening jpeg image. Time elapsed : 0ms
+Decoding jpeg image. Time elapsed : 7372ms
+Saving jpeg image without compression. Time elapsed : 10557ms
+Saving jpeg image with standard compression. Time elapsed : 1ms
+compression rate 0%
+
+3) Transforming bmp
+
+Opening bmp image. Time elapsed : 0ms
+Decoding bmp image. Time elapsed : 7316ms
+Saving bmp image without compression. Time elapsed : 4597ms
+Saving bmp image with RLE compression. Time elapsed : 3883ms
+compression rate 24%
+
+4) Removing colors bmp
+
+5) Removing colors tiff
+
+6) Removing colors jpeg
+Time passed : 398s
